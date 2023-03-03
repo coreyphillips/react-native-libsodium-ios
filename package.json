@@ -53,7 +53,7 @@
   ],
   "license": "ISC",
   "main": "index.js",
-  "name": "react-native-libsodium",
+  "name": "react-native-libsodium-ios",
   "nativePackage": true,
   "peerDependencies": {
     "react": "*",
@@ -68,7 +68,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/synonymdev/react-native-libsodium.git"
+    "url": "git+https://github.com/coreyphillips/react-native-libsodium-ios.git"
   },
   "scripts": {
     "bootstrap": "yarn example && yarn && yarn pods",
